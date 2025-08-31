@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 4"
+title: "Efficient Atmospheric Correction for Onboard Processing Using Knowledge Distillation and Model Compression"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/Efficient Atmospheric Correction for Onboard Processing Using Knowledge Distillation and Model Compression
+excerpt: 'This paper introduces an innovative deep learning-based solution for atmospheric correction in remote sensing, specifically designed for resource-constrained spaceborne systems.'
+date: 2024-11-27
+venue: '2024 International Conference on Digital Image Computing: Techniques and Applications (DICTA)'
+paperurl: '[http://academicpages.github.io/files/paper3.pdf](https://ieeexplore.ieee.org/document/10869604'
+citation: 'Zhang, M., Cheraghian, A., Qin, Y., Benn, D., Rollan, T., & Habili, N. (2024, November). Efficient Atmospheric Correction for Onboard Processing Using Knowledge Distillation and Model Compression. In 2024 International Conference on Digital Image Computing: Techniques and Applications (DICTA) (pp. 632-639). IEEE.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper introduces an innovative deep learning-based solution for atmospheric correction in remote sensing, specifically designed for resource-constrained spaceborne systems. We train the UNet deep learning model with 3D kernels on a synthetic dataset derived from Hyperion imagery over Australia and then utilize knowledge distillation to develop a lightweight model that maintains accuracy while minimizing computational demands. The lightweight model undergoes static quantization and is then deployed on the Raspberry Pi 4 platform. The Raspberry Pi 4 is known for its computational efficiency and aligns with spaceborne computational constraints, offering a practical solution for onboard processing. Major contributions include utilizing available remote sensing data and a physics-based method to create an extensive synthetic dataset resembling typical atmospheric conditions and geographic terrains, as well as outlining an AI processing workflow encompassing synthetic dataset generation, optimal model training, knowledge distillation for lightweight model training, and model compression through static quantization for resource-constrained environments. The results demonstrate the successful deployment of atmospheric correction on the Raspberry Pi 4.
