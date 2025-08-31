@@ -1,14 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "ConMamba: Contrastive Vision Mamba for Plant Disease Detection"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/conmamba-contrastive-vision-mamba
+excerpt: 'This paper proposes a contrastive learning framework using Vision Mamba for robust plant disease detection.'
+date: 2025-06-03
+venue: 'Under review'
+slidesurl: ''
+paperurl: 'https://arxiv.org/pdf/2506.03213'
+bibtexurl: ''
+citation: 'Mamun, A. A., Zhang, M., Ahmedt-Aristizabal, D., Hayder, Z., & Awrangjeb, M. (2025). ConMamba: Contrastive Vision Mamba for Plant Disease Detection. arXiv preprint arXiv:2506.03213'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Plant Disease Detection (PDD) is a key aspect of precision agriculture. However, existing deep learning methods often rely on extensively annotated datasets, which are time-consuming and costly to generate. Self-supervised Learning (SSL) offers a promising alternative by exploiting the abundance of unlabeled data. However, most existing SSL approaches suffer from high computational costs due to convolutional neural networks or transformer-based architectures. Additionally, they struggle to capture long-range dependencies in visual representation and rely on static loss functions that fail to align local and global features effectively. To address these challenges, we propose ConMamba, a novel SSL framework specially designed for PDD. ConMamba integrates the Vision Mamba
+Encoder (VME), which employs a bidirectional State Space Model (SSM) to capture long-range dependencies efficiently. Furthermore, we introduce a dual-level contrastive loss with dynamic weight adjustment to optimize local-global feature alignment. Experimental results on three benchmark datasets demonstrate that ConMamba significantly outperforms state-of-the-art methods across multiple evaluation metrics. This provides an efficient and robust solution for PDD.
