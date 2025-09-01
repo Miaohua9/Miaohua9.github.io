@@ -6,7 +6,7 @@ permalink: /publication/Efficient Atmospheric Correction for Onboard Processing 
 excerpt: 'This paper introduces an innovative deep learning-based solution for atmospheric correction in remote sensing, specifically designed for resource-constrained spaceborne systems.'
 date: 2024-11-27
 venue: '2024 International Conference on Digital Image Computing: Techniques and Applications (DICTA)'
-paperurl: '[http://academicpages.github.io/files/paper3.pdf](https://ieeexplore.ieee.org/document/10869604'
+paperurl: 'https://ieeexplore.ieee.org/document/10869604'
 citation: 'Zhang, M., Cheraghian, A., Qin, Y., Benn, D., Rollan, T., & Habili, N. (2024, November). Efficient Atmospheric Correction for Onboard Processing Using Knowledge Distillation and Model Compression. In 2024 International Conference on Digital Image Computing: Techniques and Applications (DICTA) (pp. 632-639). IEEE.'
 ---
 
