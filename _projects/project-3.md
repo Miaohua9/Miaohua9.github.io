@@ -1,6 +1,6 @@
 ---
-title: "Project item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "MRFF–COVIU (Digital Health)"
+excerpt: "Designed an image segmentation model for diabetic foot ulcer detection to assist clinical decision-making. The model supports consistent, timely, and cost-effective wound assessment.<br/><img src='/images/health.png'>"
 collection: project
 ---
 
