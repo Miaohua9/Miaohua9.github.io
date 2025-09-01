@@ -1,7 +1,7 @@
 ---
 title: "DyCR: A dynamic clustering and recovering network for few-shot class-incremental learning"
 collection: publications
-category: journal
+category: manuscripts
 permalink: /publication/2025-05-16-paper-title-number-4\7
 excerpt: 'a novel orthogonal decomposition mechanism is developed to split the feature embeddings into context and category information.'
 date: 2024-05-16
