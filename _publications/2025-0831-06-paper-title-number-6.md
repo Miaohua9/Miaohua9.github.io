@@ -6,7 +6,7 @@ permalink: /publication/2024-10-11-paper-title-number-6
 excerpt: 'In this review, we provide the very first conceptual grounding for the SSL approach in PDD. By reviewing a large body of recent related works in the literature, we thoroughly analyse and categorise them into generative, predictive, contrastive and hybrid SSL models. '
 date: 2024-10-11
 venue: 'IEEE Access'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf](https://ieeexplore.ieee.org/document/10714333'
+paperurl: 'https://ieeexplore.ieee.org/document/10714333'
 citation: 'Al Mamun, A., Ahmedt-Aristizabal, D., Zhang, M., Hossen, M. I., Hayder, Z., & Awrangjeb, M. (2024). Plant disease detection using self-supervised learning: A systematic review. IEEE Access.'
 ---
 
