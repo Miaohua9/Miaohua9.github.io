@@ -232,6 +232,9 @@ collections:
   professional_service:
     output: true
     permalink: /:collection/:path/
+  professional_experience:
+    output: true
+    permalink: /:collection/:path/
   
 
 
@@ -293,7 +296,7 @@ defaults:
      # _experience
   - scope:
       path: ""
-      type: professional experience
+      type: professional_experience
     values:
       layout: single
       author_profile: true
