@@ -1,6 +1,6 @@
 ---
-title: "Project item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Blue Growth (Reef Intelligence Project): Point-Supervised Seagrass Segmentation"
+excerpt: "Led the development of a point-supervised 2D segmentation model based on Segment Anything Model for marine habitats mapping under limited annotations. This work supports biodiversity protection and sustainable coastal policy planning in Australia. 1<br/><img src='/images/Point_seagrass.png'>"
 collection: project
 ---
 
