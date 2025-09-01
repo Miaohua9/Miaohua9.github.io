@@ -14,6 +14,20 @@
         "Coordinate the ICV Reading Group to promote continuous learning and cross-team collaboration.",
         "Supervise PhD student by setting clear research milestones and providing guidance toward achieving publication-focused outcomes."
       ]
-    }
+    },
+    {
+      "position": "Research Fellow",
+      "company": "Griffith University",
+      "startDate": "May 2020",
+      "endDate": "Nov. 20222",
+      "summary": "Worked on project fine-grained classification with few labels",
+      "highlights": [
+        "Developed methods to enhance generalization under domain shift by leveraging publicly available datasets for training and adapting to unseen domains",
+        "Produced research publications and contributed to conferences and journal articles.",
+        "Develop code and manage version control, and shared within team to prompte collaboration",
+        "Managed GPU workstation clusters and AWS VOLTA cloud infrastructure for the lab",
+        "Supervise PhD student by setting clear research milestones and providing guidance toward achieving publication-focused outcomes."
+      ]
+    
   ]
 }
