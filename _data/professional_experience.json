@@ -1,12 +1,21 @@
 {
   "work": [
     {
-      "company": "CSIRO Data61",
       "position": "Research Fellow",
+      "company": "CSIRO Data61",
       "location": "Canberra, Australia",
-      "startDate": "2021",
+      "startDate": "Jan. 2023",
       "endDate": "Present",
       "summary": "Working on efficient AI models for environmental and medical applications."
+      "highlights": [
+        "Developed applied AI solutions for data pattern analysis across diverse domains including healthcare, environmental monitoring, and agriculture.",
+        "Produce research publications and contribute to conferences and journal publications",
+        "Develop code and manage version control to ensure integrity, track changes, and support team collaboration via Bitbucket",
+        "Attend regular project meetings and provide updates via project management platforms such as Jira and Confluence to manage team tasks, track project progress, and support team collaboration",
+        "C",
+        "Coordinate the ICV Reading Group to promote continuous learning and cross-team collaboration.",
+        "Supervise PhD student by setting clear research milestones and providing guidance toward achieving publication-focused outcomes."
+      ]
     }
   ]
 }
