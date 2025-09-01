@@ -1,7 +1,7 @@
 ---
 title: "Joint image denoising with gradient direction and edge-preserving regularization"
 collection: publications
-category: journal
+category: manuscripts
 permalink: /publication/2022-05-17-paper-title-number-10
 excerpt: 'A new gradient-direction-based method is proposed to avoid the denoised edges to be blurred especially when the edges of the guidance image are weak or inexistent.'
 date: 2022-05-17
