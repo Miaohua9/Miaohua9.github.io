@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Miaohua Zhang"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Miaohua Zhang"
 description              : &description "personal description"
 url                      : https://miaohua9.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "Miaohua9/miaohua9.github.io"
 author:
   # Biographic information
   avatar           : "Lena.jpeg"
-  name             : "Your Sidebar Name"
+  name             : "Miaohua Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Research Fellow, Data61,CSIRO"
   #location         : "Earth"
