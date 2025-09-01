@@ -6,8 +6,7 @@ permalink: /publication/Point-Supervised Seagrass Segmentation for 3D Underwater
 excerpt: 'In this paper, we propose a label-efficient fine-grained seagrass segmentation approach based on weak supervision with sparse point.'
 date: 2024-11-27
 venue: '2024 International Conference on Digital Image Computing: Techniques and Applications (DICTA)'
-slidesurl: ''
-paperurl: 'http://academicpages.github.io/files/paper3.pdf](https://ieeexplore.ieee.org/document/10869547)'
+paperurl: 'https://ieeexplore.ieee.org/document/10869547'
 citation: 'Zhang, M., Santa Cruz, R., Arzhaeva, Y., Li, X., Do, B., Oorloff, J., ... & Ahmedt-Aristizabal, D. (2024, November). Point-Supervised Seagrass Segmentation for 3D Underwater Habitat Mapping. In 2024 International Conference on Digital Image Computing: Techniques and Applications (DICTA) (pp. 54-61). IEEE.'
 ---
 
