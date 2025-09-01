@@ -229,6 +229,9 @@ collections:
   honours:
     output: true
     permalink: /:collection/:path/
+  professional_service:
+    output: true
+    permalink: /:collection/:path/
   
 
 
@@ -273,7 +276,7 @@ defaults:
   # _research
   - scope:
       path: ""
-      type: research
+      type: honours
     values:
       layout: single
       author_profile: true
@@ -283,6 +286,22 @@ defaults:
   - scope:
       path: ""
       type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+     # _experience
+  - scope:
+      path: ""
+      type: professional experience
+    values:
+      layout: single
+      author_profile: true
+      share: true
+    #_service
+  - scope:
+      path: ""
+      type: professional service
     values:
       layout: single
       author_profile: true
