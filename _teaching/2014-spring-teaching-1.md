@@ -3,7 +3,7 @@ title: "Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
 venue: "Griffith University, School of Engineering and Built Environment"
-date: 2016-07-01--2016-11-15
+date: 2016-07-01
 location: "Brisbane, QLD, Australia"
 ---
 
