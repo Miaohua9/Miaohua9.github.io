@@ -13,12 +13,12 @@ main:
   
   - title: "Professional Experience"
     url: /experience/
+
+  - title: "Publications"
+    url: /publications/
     
   - title: "Professional Services"
     url: /portfolio/
-    
-  - title: "Publications"
-    url: /publications/
         
   - title: "Teaching"
     url: /teaching/   
