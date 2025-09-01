@@ -7,17 +7,14 @@ author_profile: true
 
 ### Selected Honours & Awards
 
-- **CERC Postdoctoral Fellowship – CSIRO (2024–2025)**  
-  Competitive fellowship awarded for impactful research in efficient AI for environmental and medical domains.
+- **Three “Top publication incentive award”,  – Griffith University, Australia. (2020–2021)**  
 
-- **Best Paper Award – WACV 2023**  
-  Recognized for the work *“Vision-Language Fusion for Low-Data Segmentation”* addressing challenges in low-annotation environments.
+- **Conference Scholarshi – Griffith University,Australia. 2016**  
 
-- **CSIRO Chairman’s Medal – Finalist (2022)**  
-  For outstanding collaborative efforts on AI-powered seagrass mapping in marine ecosystems.
+- **Griffith University Postgraduate Research Scholarship, - Griffith University, Australia. (2015-2018)**  
 
-- **Dean’s Award for Research Excellence – University of XYZ (2021)**  
-  Honoured for significant contributions in computer vision for medical image analysis.
-
-- **Top Reviewer – CVPR (2022)**  
-  Acknowledged for high-quality and constructive reviews during the CVPR review process.
+- **Griffith University International Postgraduate Research Scholarship, Griffith University, Australia. (2015-2018)**  
+ 
+- **Outstanding Graduate Student, - Ministry of Education, China. (2013)**  
+  
+- **Best Research Paper Award,, - Xi’an University of Technology, China. (2013)**  
