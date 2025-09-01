@@ -9,7 +9,7 @@ author_profile: true
 
 - **Three “Top publication incentive award”,  – Griffith University, Australia. (2020–2021)**  
 
-- **Conference Scholarshi – Griffith University,Australia. 2016**  
+- **Conference Scholarshi – Griffith University, Australia. 2016**  
 
 - **Griffith University Postgraduate Research Scholarship, - Griffith University, Australia. (2015-2018)**  
 
@@ -17,4 +17,4 @@ author_profile: true
  
 - **Outstanding Graduate Student, - Ministry of Education, China. (2013)**  
   
-- **Best Research Paper Award,, - Xi’an University of Technology, China. (2013)**  
+- **Best Research Paper Award, - Xi’an University of Technology, China. (2013)**  
