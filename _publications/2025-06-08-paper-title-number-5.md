@@ -1,7 +1,7 @@
 ---
 title: "Pseudo-set frequency refinement architecture for fine-grained few-shot class-incremental learning"
 collection: publications
-category: journal
+category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'Developed a pseudo-set frequency refinement method for fine-grained FSCIL tasks.'
 date: 2024-11-17
