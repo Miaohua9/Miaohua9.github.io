@@ -1,7 +1,7 @@
 ---
 title: "Point-Supervised Seagrass Segmentation for 3D Underwater Habitat Mapping"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/Point-Supervised Seagrass Segmentation for 3D Underwater Habitat Mapping
 excerpt: 'In this paper, we propose a label-efficient fine-grained seagrass segmentation approach based on weak supervision with sparse point.'
 date: 2024-11-27
