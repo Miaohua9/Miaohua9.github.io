@@ -6,8 +6,7 @@ permalink: /publication/Video background extraction and moving object detection 
 excerpt: 'Video Background Extraction and Moving Object Detection (VBEMOD) correspond to most fundamental tasks in computer vision. In this paper, we for the first time explore the relationship between the sensor array beamformer and VBEMOD, and propose a novel Conceptual Beamforming Algorithm (CBA) for joint VBEMOD.'
 date: 2025-05-01
 venue: 'Digital Signal Processing'
-slidesurl: ''
-paperurl: '[http://academicpages.github.io/files/paper2.pdf](https://www.sciencedirect.com/science/article/pii/S1051200425000715)'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S1051200425000715'
 citation: 'Cheng, Z., Liang, J., Zhang, M., Sun, Z., & So, H. C. (2025). Video background extraction and moving object detection via conceptual beamforming algorithms. Digital Signal Processing, 160, 105049'
 ---
 
