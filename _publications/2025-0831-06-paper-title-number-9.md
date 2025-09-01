@@ -1,13 +1,14 @@
 ---
-title: "Paper Title Number 6, with math $$E=mc^2$$"
+title: "A generalized kernel risk sensitive loss for robust two-dimensional singular value decomposition"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/2022-04-27-paper-title-number-9
+excerpt: 'we propose a generalized kernel risk sensitive loss for measuring the projection error in 2DSVD, which automatically eliminates the outlier information during optimization.'
+date: 2022-04-27
+venue: 'IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)'
+paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9747522'
+citation: 'Zhang, M., Gao, Y., & Zhou, J. (2022, May). A generalized kernel risk sensitive loss for robust two-dimensional singular value decomposition. In ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 1910-1914). IEEE.
+'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+Two-dimensional singular value decomposition (2DSVD) is an important dimensionality reduction algorithm which has inherent advantage in preserving the structure of 2D images. However, 2DSVD algorithm is based on the squared error loss, which may exaggerate the projection errors with the presence of outliers. To solve this problem, we propose a generalized kernel risk sensitive loss for measuring the projection error in 2DSVD, which automatically eliminates the outlier information during optimization. Since the proposed objective function is non-convex, a majorization-minimization algorithm is developed to efficiently solve it. Our method is rotational invariant and has intrinsic advantages in processing non-centered data. Experimental results on public databases demonstrate that the performance of the proposed method significantly outperforms several benchmark methods on different applications.
