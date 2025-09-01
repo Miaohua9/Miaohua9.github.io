@@ -269,21 +269,21 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _research
   - scope:
       path: ""
-      type: portfolio
+      type: research
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _projects
   - scope:
       path: ""
-      type: talks
+      type: projects
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
 
