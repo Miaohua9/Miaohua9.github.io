@@ -301,7 +301,7 @@ defaults:
     #_service
   - scope:
       path: ""
-      type: professional service
+      type: professional_service
     values:
       layout: single
       author_profile: true
