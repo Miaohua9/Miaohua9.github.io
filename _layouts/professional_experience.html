@@ -1,0 +1,51 @@
+---
+layout: compress
+---
+
+{% include base_path %}
+
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 | default: "en" }}">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %} | {{ site.name | default: site.title }}</title>
+  {% include head.html %}
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/cv-layout.css">
+</head>
+<body class="cv-layout">
+  {% include masthead.html %}
+
+  <div id="main" role="main">
+    <div class="container">
+      <h1>{{ page.title }}</h1>
+      {% assign experience = site.data[page.json_file] %}
+
+      {% if experience.work %}
+        <h2>Work Experience</h2>
+        {% for job in experience.work %}
+          <div class="job-entry">
+            <h3>{{ job.position }}, {{ job.company }}</h3>
+            <p><strong>{{ job.location }}</strong> — {{ job.startDate }} to {{ job.endDate }}</p>
+            <p>{{ job.summary }}</p>
+            {% if job.highlights %}
+              <ul>
+                {% for item in job.highlights %}
+                  <li>{{ item }}</li>
+                {% endfor %}
+              </ul>
+            {% endif %}
+          </div>
+        {% endfor %}
+      {% endif %}
+    </div>
+  </div>
+
+  <footer class="page__footer">
+    {% include footer.html %}
+  </footer>
+
+  {% include scripts.html %}
+</body>
+</html>
