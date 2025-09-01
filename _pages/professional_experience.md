@@ -1,15 +1,8 @@
 ---
-layout: single
+layout: cv  # or custom layout
 title: "Professional Experience"
-permalink: /experience/
+permalink: /professional_experience/
 author_profile: true
+json_file: "professional_experience.json"  # if your layout uses this key
 ---
 
-{% for job in site.data.professional_experience.work %}
-### {{ job.position }} — {{ job.company }}
-**Location:** {{ job.location }}  
-**Years:** {{ job.startDate }} – {{ job.endDate }}  
-
-{{ job.summary }}
-
-{% endfor %}
