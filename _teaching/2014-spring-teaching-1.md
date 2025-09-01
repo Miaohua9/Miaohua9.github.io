@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Griffith University, School of Engineering and Built Environment"
+date: 2016-07-01--2016-11-15
+location: "Brisbane, QLD, Australia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Tutored students in the fundamentals of digital imaging and basic image processing techniques, including image enhancement, acquisition, and storage across various formats. Guided hands-on learning in face detection by helping students develop their own detection systems using color information, implemented in LabVIEW or VC++ environments. Emphasized practical application of computer vision concepts and fostered independent problem-solving through project-based learning.
