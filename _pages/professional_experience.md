@@ -1,5 +1,5 @@
 ---
-layout: cv  # or your custom layout that supports loading from a JSON file
+layout: professional_experience  # or your custom layout that supports loading from a JSON file
 title: "Professional Experience"
 permalink: /professional_experience/
 author_profile: true
