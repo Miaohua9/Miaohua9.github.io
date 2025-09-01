@@ -1,6 +1,6 @@
 ---
-title: "Project item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "CPSSR-QWR(AI for Navigation)"
+excerpt: "Participated the development of Efficient object detection for Collision Avoidance. <br/><img src='/images/detection.png'>"
 collection: project
 ---
 
