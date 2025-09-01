@@ -1,6 +1,6 @@
 ---
-title: "Project item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "CPSSR-QWR (AI for Navigation)"
+excerpt: "Developed a data expansion method to improve scene understanding for navigation AI in low-data, real-world environments. Applications include autonomous navigation and smart port management.<br/><img src='/images/navigation.png'>"
 collection: project
 ---
 
