@@ -3,7 +3,7 @@ title: "A degradation model for simultaneous brightness and sharpness enhancemen
 collection: publications
 category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
+excerpt: 'Although a large number of methods have been proposed for low-light image enhancement, there still remain challenges for these methods to simultaneously achieve excellent sharpness/resolution, high calculation efficiency as well as visual pleasure requirements. In this communication, we propose a new low-light image enhancement method based on the degradation model to overcome this dilemma.'
 date: 2021-12-17
 venue: 'Signal Processing'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0165168421003352'
