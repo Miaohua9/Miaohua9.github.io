@@ -1,7 +1,7 @@
 ---
 title: "A unified weight learning and low-rank regression model for robust complex error modeling"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This is the first attempt to use a unified function to address both error distribution fitting and structure estimation.'
 date: 2021-12-17
