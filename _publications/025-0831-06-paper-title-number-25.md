@@ -1,5 +1,5 @@
 ---
-title: "Learning Sample Relationship for Cross-Domain Few-Shot Learning"
+title: 'Learning Sample Relationship for Cross-Domain Few-Shot Learning'
 collection: publications
 category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
