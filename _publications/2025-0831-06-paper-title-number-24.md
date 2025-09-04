@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 6, with math $$E=mc^2$$"
+title: "Robust ellipse fitting based on sparse combination of data points"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
+excerpt: 'Ellipse fitting is widely applied in the fields of computer vision and automatic industry control, in which the procedure of ellipse fitting often follows the preprocessing step of edge detection in the original image. Therefore, the ellipse fitting method also depends on the accuracy of edge detection besides their own performance, especially due to the introduced outliers and edge point errors from edge detection which will cause severe performance degradation. In this paper, we develop a robust ellipse fitting method to alleviate the influence of outliers.'
 date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+venue: 'IEEE Transactions on Image Processing'
+paperurl: 'https://ieeexplore.ieee.org/document/6459596'
+citation: 'Liang, J., Zhang, M., Liu, D., Zeng, X., Ojowu, O., Zhao, K., ... & Liu, H. (2013). Robust ellipse fitting based on sparse combination of data points. IEEE Transactions on Image Processing, 22(6), 2207-2218.'
 ---
 ![Uploading image.png…]()
