@@ -1,32 +1,52 @@
 {
   "work": [
     {
-      "position": "Research Fellow",
+      "position": "Research Fellow – Applied Machine Learning and AI Development",
       "company": "CSIRO Data61, Canberra, Australia",
       "startDate": "Jan. 2023",
       "endDate": "Present",
-      "summary": "Working on efficient AI models for environmental and medical applications.",
+      "summary": "Working on efficient Applied Machine Learning and AI Development",
       "highlights": [
-        "Developed applied AI solutions for data pattern analysis across diverse domains including healthcare, environmental monitoring, and agriculture.",
-        "Produce research publications and contribute to conferences and journal publications",
-        "Develop code and manage version control to ensure integrity, track changes, and support team collaboration via Bitbucket",
-        "Attend regular project meetings and provide updates via project management platforms such as Jira and Confluence to manage team tasks, track project progress, and support team collaboration",
-        "Coordinate the ICV Reading Group to promote continuous learning and cross-team collaboration.",
-        "Supervise PhD student by setting clear research milestones and providing guidance toward achieving publication-focused outcomes."
+        "Perform exploratory data analysis and visualize data quality issues, missing values, and class imbalance across large-scale structured and unstructured datasets.",
+        "Designed and implemented end-to-end machine learning pipelines for applications in healthcare, environmental monitoring, satellite imagery, and autonomous navigation.",
+        "Built and optimized models for efficient segmentation, classification, denoising, detection, and data expansion to enhance model robustness and generalization.",
+        "Develop code and manage version control to ensure integrity, track changes, and support team collaboration via Bitbucket.",
+        "Produce research publications and contribute to patents, conferences and journal publications.",
+        "Managed project progress through Jira and Confluence, tracking milestones, documenting results, and coordinating updates with cross-functional teams."
+        "Coordinate Data61 Imaging and Computer Vision Reading Group to promote continuous learning and knowledge sharing across teams."
+        "Supervise PhD student by setting clear research milestones, providing technical guidance, and support publication-focused outcomes."
+        "Collaborated with cross-disciplinary teams (6–8 members each) of scientists, engineers, and domain experts, contributing to research design, technical mentoring, and stakeholder presentations."
       ]
     },
     {
       "position": "Research Fellow",
       "company": "Griffith University",
       "startDate": "May 2020",
-      "endDate": "Nov. 20222",
+      "endDate": "Dec. 20222",
       "summary": "Worked on project fine-grained classification with few labels",
       "highlights": [
-        "Developed methods to enhance generalization under domain shift by leveraging publicly available datasets for training and adapting to unseen domains",
+        "Analyzed fine-grained visual datasets where classes exhibit subtle differences and overlapping features under limited labeled data conditions, addressing challenges of high intra-class variability and cross-domain distribution shifts.",
+        "Developed machine learning models capable of learning effectively from small datasets and generalizing to new domains.",
+        "Designed and implemented data preprocessing and augmentation pipelines to improve model robustness and reduce overfitting in low-label learning scenarios.",
         "Produced research publications and contributed to conferences and journal articles.",
-        "Develop code and manage version control, and shared within team to prompte collaboration",
-        "Managed GPU workstation clusters and AWS VOLTA cloud infrastructure for the lab",
+        "Develop code and manage version control, and shared within team to promote collaboration."
+        "Managed GPU workstation clusters and AWS VOLTA cloud infrastructure for the lab."
         "Supervise PhD student by setting clear research milestones and providing guidance toward achieving publication-focused outcomes."
+      ]
+    },
+
+    {
+      "position": "PhD student",
+      "company": "Griffith University",
+      "startDate": "May 2015",
+      "endDate": "Aug. 19",
+      "summary": "Worked on Robust Machine Learning for Noisy and Incomplete Data",
+      "highlights": [
+        "Analyzed data reliability under noisy, incomplete, and outlier-prone conditions, identifying and detecting abnormal samples through statistical inspection to understand their impact on model performance and generalization.",
+        "Developed robust statistical and machine learning algorithms, including low-rank regression, tensor factorization, and sparse representation methods, to enhance model accuracy and stability under corrupted or skewed data conditions.",
+        "Designed adaptive weighting and regularization strategies to automatically suppress the impact of abnormal data points during training, improving predictive accuracy and model interpretability.",
+        "Produced research publications and contributed to conferences and journal articles. ",
+        "Attend internal conferences and workshops to present our work, exchange ideas with peers, and strengthen collaboration across research groups.  "
       ]
     }
   ]
