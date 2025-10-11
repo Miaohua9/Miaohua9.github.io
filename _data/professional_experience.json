@@ -22,7 +22,7 @@
       "position": "Research Fellow",
       "company": "Griffith University",
       "startDate": "May 2020",
-      "endDate": "Dec. 20222",
+      "endDate": "Nov. 20222",
       "summary": "Worked on project fine-grained classification with few labels",
       "highlights": [
         "Analyzed fine-grained visual datasets where classes exhibit subtle differences and overlapping features under limited labeled data conditions, addressing challenges of high intra-class variability and cross-domain distribution shifts.",
