@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching Assistant -- Digital Imaging Processing"
 collection: teaching
 type: "Undergraduate course"
 venue: "Griffith University, School of Engineering and Built Environment"
