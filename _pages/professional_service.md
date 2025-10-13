@@ -12,4 +12,4 @@ author_profile: true
 - **Regular reviewer, - AAAI, ACMM, DICTA, ACM ASIA Conference, ICONIP**  
 
 ### Guest Lecturer
-- **Translating AI into Real-World Impact: From Vision to Deploymentm, Macquarie University. May 2025**
+- **Translating AI into Real-World Impact: From Vision to Deployment, Macquarie University. May 2025**
