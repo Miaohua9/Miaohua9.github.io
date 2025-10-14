@@ -3,7 +3,7 @@ title: "Teaching Assistant -- Digital System"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "Griffith University, Griffith University, School of Engineering and Built Environment"
+venue: "Griffith University, School of Engineering and Built Environment"
 date: 2016-07-01
 location: "Brisbane, QLD, Australia"
 ---
